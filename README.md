@@ -1,1 +1,1 @@
-This repository contains programs written for the higher-level programming  at Alx africa programme for yon developpers in  software engineering.
+This repository contains programs written for the higher-level programming  at Alx africa programme for the yong developpers in  software engineering.In these projects, in month four of the year one curriculum, I'm learning Python also expand my skills in C and shell scripting.
